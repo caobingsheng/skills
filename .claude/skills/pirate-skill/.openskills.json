@@ -1,0 +1,7 @@
+{
+  "source": "google-gemini/gemini-cli",
+  "sourceType": "git",
+  "repoUrl": "https://github.com/google-gemini/gemini-cli",
+  "subpath": "packages\\sdk\\test-data\\skills\\pirate-skill",
+  "installedAt": "2026-03-30T02:13:46.448Z"
+}

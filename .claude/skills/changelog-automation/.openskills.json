@@ -1,0 +1,7 @@
+{
+  "source": "wshobson/agents",
+  "sourceType": "git",
+  "repoUrl": "https://github.com/wshobson/agents",
+  "subpath": "plugins\\documentation-generation\\skills\\changelog-automation",
+  "installedAt": "2026-03-30T02:12:13.382Z"
+}

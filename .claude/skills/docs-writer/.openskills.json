@@ -1,0 +1,7 @@
+{
+  "source": "google-gemini/gemini-cli",
+  "sourceType": "git",
+  "repoUrl": "https://github.com/google-gemini/gemini-cli",
+  "subpath": ".gemini\\skills\\docs-writer",
+  "installedAt": "2026-03-30T02:12:38.368Z"
+}
