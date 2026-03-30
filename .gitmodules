@@ -1,3 +1,6 @@
 [submodule "Product-Manager-Skills"]
 	path = Product-Manager-Skills
 	url = https://github.com/deanpeters/Product-Manager-Skills
+[submodule "antigravity-awesome-skills"]
+	path = antigravity-awesome-skills
+	url = https://github.com/sickn33/antigravity-awesome-skills
