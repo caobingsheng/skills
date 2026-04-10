@@ -1,5 +1,7 @@
 # API 命令参考
 
+> ⚠️ **分页限制**：所有列表端点默认最大每页 50 条，`limit` 参数超过 50 会被静默截断。详见 [pagination.md](pagination.md)。
+
 直接调用 Gitea API，用于高级操作和自定义集成。
 
 ## API 文档资源

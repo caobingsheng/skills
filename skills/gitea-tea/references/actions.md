@@ -1,5 +1,7 @@
 # Actions 命令参考
 
+> ⚠️ **分页限制**：`--limit` 参数最大值 50，超过会被静默截断。详见 [pagination.md](pagination.md)。
+
 管理 Gitea Actions CI/CD 工作流、密钥和变量。
 
 ## Secrets（密钥）

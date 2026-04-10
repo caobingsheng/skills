@@ -26,6 +26,49 @@ tea login add
 tea whoami
 ```
 
+## ⚠️ 重要：分页硬限制
+
+**所有列表命令都有服务端硬限制：最大每页 50 条。**
+
+这是 Gitea 服务端配置（`[api] MAX_RESPONSE_ITEMS = 50`），`--limit` 参数超过 50 会被**静默截断**，不报错也不提示。
+
+### 受影响的命令
+所有带 `--limit` 参数的列表命令：
+- `tea issues list`
+- `tea pulls list`
+- `tea labels list`
+- `tea releases list`
+- `tea milestones list`
+- `tea branches list`
+- `tea repos list`
+- `tea orgs list`
+
+### 错误用法 ❌
+```bash
+# 只会返回前 50 条，静默丢失其他数据
+tea issues list --limit 1000 --output json
+```
+
+### 正确用法 ✅
+
+**方式 1：使用辅助脚本（推荐）**
+```bash
+# 项目已提供现成的分页脚本，自动获取全部数据
+python .claude/skills/gitea-tea/scripts/tea_paginate.py \
+  --command "issues list --state all" \
+  --repo owner/repo
+```
+
+**方式 2：手动分页**
+```bash
+# 循环获取每页数据并合并
+tea issues list --limit 50 --page 1 --output json > page1.json
+tea issues list --limit 50 --page 2 --output json > page2.json
+# 合并：jq -s 'add' page*.json
+```
+
+**详细说明**：参见 [pagination.md](references/pagination.md)
+
 ## Authentication
 
 ```bash

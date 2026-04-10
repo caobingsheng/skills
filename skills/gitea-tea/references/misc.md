@@ -1,5 +1,7 @@
 # 其他命令参考
 
+> ⚠️ **分页限制**：所有列表命令的 `--limit` 参数最大值 50，超过会被静默截断。详见 [pagination.md](pagination.md)。
+
 涵盖 labels、milestones、branches、organizations、notifications、times、comments 等命令。
 
 ## Labels（标签）

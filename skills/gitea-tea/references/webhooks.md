@@ -1,5 +1,7 @@
 # Webhooks 命令参考
 
+> ⚠️ **分页限制**：`--limit` 参数最大值 50，超过会被静默截断。详见 [pagination.md](pagination.md)。
+
 管理仓库、组织或全局 Webhooks。
 
 ## 列表命令
