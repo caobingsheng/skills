@@ -1,6 +1,6 @@
 ---
 name: vue-cohesion-coupling
-description: Vue组件设计最佳实践 - 快速创建高质量、可维护的Vue组件。包含完整代码示例、反模式避坑指南、组件通信模式、代码审查清单。Use whenever: (1) Creating or modifying Vue components, (2) Deciding component structure and communication patterns, (3) Refactoring messy or tightly-coupled components, (4) Implementing props/events/Vuex communication, (5) Reviewing Vue code for quality issues, (6) Asking "how should I structure this component?" or "is this component well-designed?". Helps avoid common mistakes like over-coupling, mixed responsibilities, and direct component access.
+description: "Vue组件设计最佳实践 - 快速创建高质量、可维护的Vue组件。包含完整代码示例、反模式避坑指南、组件通信模式、代码审查清单。Use whenever: (1) Creating or modifying Vue components, (2) Deciding component structure and communication patterns, (3) Refactoring messy or tightly-coupled components, (4) Implementing props/events/Vuex communication, (5) Reviewing Vue code for quality issues, (6) Asking 'how should I structure this component?' or 'is this component well-designed?'. Helps avoid common mistakes like over-coupling, mixed responsibilities, and direct component access."
 ---
 
 # Vue高内聚低耦合设计指南

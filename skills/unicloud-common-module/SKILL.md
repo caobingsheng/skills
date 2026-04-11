@@ -1,6 +1,6 @@
 ---
 name: unicloud-common-module
-description: uniCloud 云函数公共模块完整使用指南。Use when working with uniCloud cloud function common modules, especially when: (1) Creating shared utility modules for multiple cloud functions, (2) Implementing common logic extraction and reuse, (3) Managing dependencies between cloud functions and common modules, (4) Understanding how to export and import common modules in uniCloud.
+description: "uniCloud 云函数公共模块完整使用指南。Use when working with uniCloud cloud function common modules, especially when: (1) Creating shared utility modules for multiple cloud functions, (2) Implementing common logic extraction and reuse, (3) Managing dependencies between cloud functions and common modules, (4) Understanding how to export and import common modules in uniCloud."
 license: Complete terms in LICENSE.txt
 ---
 

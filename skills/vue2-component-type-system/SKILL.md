@@ -1,6 +1,6 @@
 ---
 name: vue2-component-type-system
-description: Vue2组件类型提示系统 - 为Vue2组件建立完整的类型提示系统，使AI能够准确理解组件的props、events、slots等API。Use when: (1) 为Vue2组件添加JSDoc注释，(2) 创建TypeScript声明文件(.d.ts)，(3) 编写组件使用指南文档(README.md)，(4) AI需要理解Vue2组件的props信息，(5) 生成、修改或调试使用Vue2组件的代码。适用于Vue 2 + JavaScript项目，特别是使用vk-unicloud-admin框架的项目。
+description: "Vue2组件类型提示系统 - 为Vue2组件建立完整的类型提示系统，使AI能够准确理解组件的props、events、slots等API。Use when: (1) 为Vue2组件添加JSDoc注释，(2) 创建TypeScript声明文件(.d.ts)，(3) 编写组件使用指南文档(README.md)，(4) AI需要理解Vue2组件的props信息，(5) 生成、修改或调试使用Vue2组件的代码。适用于Vue 2 + JavaScript项目，特别是使用vk-unicloud-admin框架的项目。"
 ---
 
 # Vue2组件类型提示系统

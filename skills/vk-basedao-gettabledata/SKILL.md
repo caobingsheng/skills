@@ -1,6 +1,6 @@
 ---
 name: vk-basedao-gettabledata
-description: vk-unicloud框架的vk.baseDao.getTableData方法完整使用指南。Use when working with vk-unicloud-admin framework database queries, especially when: (1) Implementing table data queries with pagination, filtering, and sorting, (2) Using vk-data-table component in admin pages, (3) Writing cloud functions with complex database operations including joins, grouping, and aggregation, (4) Need to understand query parameters, return value structure, and performance optimization.
+description: "vk-unicloud框架的vk.baseDao.getTableData方法完整使用指南。Use when working with vk-unicloud-admin framework database queries, especially when: (1) Implementing table data queries with pagination, filtering, and sorting, (2) Using vk-data-table component in admin pages, (3) Writing cloud functions with complex database operations including joins, grouping, and aggregation, (4) Need to understand query parameters, return value structure, and performance optimization."
 ---
 
 # vk.baseDao.getTableData 使用指南

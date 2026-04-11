@@ -1,6 +1,6 @@
 ---
 name: vk-data-form
-description: vk-unicloud-admin框架的万能表单组件完整使用指南。Use when working with vk-data-form component for: (1) Creating dynamic forms with JSON configuration, (2) Form validation and submission, (3) Complex field types like select, date, upload, (4) Conditional field display and disabled rules, (5) Dialog form and standalone form components.
+description: "vk-unicloud-admin框架的万能表单组件完整使用指南。Use when working with vk-data-form component for: (1) Creating dynamic forms with JSON configuration, (2) Form validation and submission, (3) Complex field types like select, date, upload, (4) Conditional field display and disabled rules, (5) Dialog form and standalone form components."
 ---
 
 # vk-data-form 万能表单组件指南

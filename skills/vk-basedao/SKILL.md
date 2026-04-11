@@ -1,6 +1,6 @@
 ---
 name: vk-basedao
-description: vk-unicloud框架的vk.baseDao数据库操作完整使用指南。Use when working with vk-unicloud-admin framework database operations, especially when: (1) Implementing CRUD operations (add, delete, update, query), (2) Performing complex queries with pagination, filtering, and sorting, (3) Implementing table joins and aggregations, (4) Using database transactions, (5) Understanding database command operators (_.command, _.aggregate).
+description: "vk-unicloud框架的vk.baseDao数据库操作完整使用指南。Use when working with vk-unicloud-admin framework database operations, especially when: (1) Implementing CRUD operations (add, delete, update, query), (2) Performing complex queries with pagination, filtering, and sorting, (3) Implementing table joins and aggregations, (4) Using database transactions, (5) Understanding database command operators (_.command, _.aggregate)."
 ---
 
 # vk.baseDao 数据库操作完整指南

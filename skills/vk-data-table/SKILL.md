@@ -1,6 +1,6 @@
 ---
 name: vk-data-table
-description: vk-unicloud-admin框架的万能表格组件完整使用指南。Use when working with vk-data-table component for: (1) Creating data tables with JSON configuration, (2) Implementing CRUD operations with table, (3) Using table with cloud functions (vk.baseDao.getTableData), (4) Configuring table columns, buttons, pagination, sorting, filtering, (5) Implementing table events, methods, and slots, (6) Using table query component (vk-data-table-query) for search functionality.
+description: "vk-unicloud-admin框架的万能表格组件完整使用指南。Use when working with vk-data-table component for: (1) Creating data tables with JSON configuration, (2) Implementing CRUD operations with table, (3) Using table with cloud functions (vk.baseDao.getTableData), (4) Configuring table columns, buttons, pagination, sorting, filtering, (5) Implementing table events, methods, and slots, (6) Using table query component (vk-data-table-query) for search functionality."
 ---
 
 # vk-data-table 万能表格组件

@@ -1,6 +1,6 @@
 ---
 name: vk-pubfn
-description: vk-unicloud框架的vk.pubfn工具函数完整使用指南。Use when working with vk-unicloud-admin framework utility functions, especially when: (1) Date/time formatting and manipulation, (2) Array/object data transformation, (3) Data validation and testing, (4) String/format utilities, (5) Frontend-only functions like page navigation and dialogs.
+description: "vk-unicloud框架的vk.pubfn工具函数完整使用指南。Use when working with vk-unicloud-admin framework utility functions, especially when: (1) Date/time formatting and manipulation, (2) Array/object data transformation, (3) Data validation and testing, (4) String/format utilities, (5) Frontend-only functions like page navigation and dialogs."
 ---
 
 # vk.pubfn 工具函数使用指南

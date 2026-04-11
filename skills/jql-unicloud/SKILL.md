@@ -1,6 +1,6 @@
 ---
 name: jql-unicloud
-description: JQL数据库操作完整使用指南。Use when working with UniCloud JQL database operations, especially when: (1) Using JQL syntax for database queries in clientDB or cloud functions, (2) Implementing complex queries with JQL's simplified syntax (compared to traditional MongoDB), (3) Performing table joins using foreignKey, (4) Using tree queries, grouping, and aggregation, (5) Understanding differences between JQL and vk.baseDao approaches.
+description: "JQL数据库操作完整使用指南。Use when working with UniCloud JQL database operations, especially when: (1) Using JQL syntax for database queries in clientDB or cloud functions, (2) Implementing complex queries with JQL's simplified syntax (compared to traditional MongoDB), (3) Performing table joins using foreignKey, (4) Using tree queries, grouping, and aggregation, (5) Understanding differences between JQL and vk.baseDao approaches."
 ---
 
 # JQL 数据库操作完整指南

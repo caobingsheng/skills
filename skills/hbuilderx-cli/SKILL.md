@@ -1,6 +1,6 @@
 ---
 name: hbuilderx-cli
-description: HBuilderX CLI 命令行工具完整使用指南。Use when working with HBuilderX CLI commands, especially when: (1) Running uni-app projects on web, app, or mini-program platforms, (2) Packaging apps for Harmony OS or other platforms, (3) Publishing projects to various platforms, (4) Viewing logs for debugging, (5) Managing uniCloud services, (6) Listing devices for deployment. Covers launch, pack, publish, logcat, project, uniCloud, and device management commands.
+description: "HBuilderX CLI 命令行工具完整使用指南。Use when working with HBuilderX CLI commands, especially when: (1) Running uni-app projects on web, app, or mini-program platforms, (2) Packaging apps for Harmony OS or other platforms, (3) Publishing projects to various platforms, (4) Viewing logs for debugging, (5) Managing uniCloud services, (6) Listing devices for deployment. Covers launch, pack, publish, logcat, project, uniCloud, and device management commands."
 ---
 
 # HBuilderX CLI
